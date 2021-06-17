@@ -41,5 +41,5 @@ mkdir android_apps
 cd android_apps
 git clone https://github.com/codepath/intro_android_demo.git
 cd intro_android_demo
-#echo "sdk.dir=/root/sdk" > local.properties
+#echo "sdk.dir=/workspace/sdk" > local.properties
 
