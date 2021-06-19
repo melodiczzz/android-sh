@@ -1,4 +1,4 @@
-# Upload using cURL
+# Upload using cURL --test
 #Todo --- Take this output as a variable
 OUTPUT=$(curl --upload-file ./app/build/outputs/apk/debug/app-armeabi-v7a-debug.apk https://transfer.sh/app.zip)
 curl -X POST \
